@@ -1,5 +1,10 @@
 ### Hi I am here 👋
 
-###  📫 How to reach me:
+- 🏢 I'm currently working at **Holyweb**
+- ⚙️ I use daily: `.js`, `.ts`, `.tsx`, `.css`, `.scss`, `.html`
+- 💅 Libraries: State: `redux (thunk)`, Styled: `styled-components`, Types: `typescript`
+- 🧐 Want: NodeJs, SocketIo, MongoDb
+- 🌈 Experience: `Food delivery`, `building records`, `blogs`, `collective portals`
+- 💬 Interested: UI/UX, illustrations, and simply beautiful design
+- 📫 Reach me: telegram - yumakaev
 
-[![Telegram Badge](https://img.shields.io/badge/-@yumakaev-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/yumakaev "Contact on Telegram")

@@ -6,5 +6,5 @@
 - 🧐 Want: NodeJs, SocketIo, MongoDb
 - 🌈 Experience: `Food delivery`, `building records`, `blogs`, `collective portals`
 - 💬 Interested: UI/UX, illustrations, and simply beautiful design
-- 📫 Reach me: NONE
+- 📫 Reach me: tg - trickysneak
 
